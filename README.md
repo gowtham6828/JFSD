@@ -52,13 +52,17 @@ Note:- This is a basic Project so we have not think about the security and we ha
 <img src="project images/admin page.png">
 
 <h1>This is Home Page</h1>
-<img src="project images/home page.png">
+<img src="![Screenshot (464)](https://github.com/user-attachments/assets/e2a8f52b-8d22-4123-8aa6-db8615440b12)
+">
 
 <h1>This is Login Page</h1>
-<img src="project images/login page.png">
+<img src="![Screenshot (463)](https://github.com/user-attachments/assets/9a723133-45d4-44cc-bbe0-cf190e515e2f)
+">
 
 <h1>This is Register Page</h1>
-<img src="project images/register page.png">
+<img src="![Screenshot (467)](https://github.com/user-attachments/assets/16f7f995-33c2-4640-ac05-1791887730ce)
+">
 
 <h1>This is Checkout Page</h1>
-<img src="project images/checkout page.png">
+<img src="![Screenshot (466)](https://github.com/user-attachments/assets/5fb1b065-a0d0-48ca-8581-9d1c0cbf45bb)
+">
