@@ -46,9 +46,5 @@ Note:- This is a basic Project so we have not think about the security and we ha
 
 
                                                                                                        
-                                                                                                         
-
-<h1>This is Admin Page</h1>
-<img src="project images/admin page.png">
 
 
